@@ -1,0 +1,24 @@
+@font-face {
+    font-family: NeueMachina;
+    src: url(./font/PPNeueMachina-InktrapRegular.otf);
+}
+
+*{
+    font-family: NeueMachina;
+}
+
+.rotate-260{
+    transform: rotate(220deg);
+}
+
+nav{
+    flex: 0 1 auto;
+}
+
+.center{
+    flex: 1 1 auto;
+}
+
+.foot{
+    flex: 0 1 auto;
+}
