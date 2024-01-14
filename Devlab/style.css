@@ -1,9 +1,18 @@
 @font-face {
-    font-family: NeueMachina;
+    font-family: NeueMachinaInktrap;
     src: url(./font/PPNeueMachina-InktrapRegular.otf);
 }
 
+@font-face {
+    font-family: NeueMachina;
+    src: url(./font/PPNeueMachina-PlainRegular.otf);
+}
+
 *{
+    font-family: NeueMachinaInktrap;
+}
+
+h2{
     font-family: NeueMachina;
 }
 
